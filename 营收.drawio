@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T09:33:10.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="9_wnl5yWXed0ATA1OZsp" type="github"><diagram id="yEAms9L7BJQ2DE2heDPx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-09T09:58:04.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="79YcBzeKtfKBrLyqbnIN" version="13.9.2" type="github">
+  <diagram id="yEAms9L7BJQ2DE2heDPx" name="Page-1">
+    <mxGraphModel dx="1422" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="28" y="367" width="773" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.824;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjod2IjtCuMkyDOHLPp8-1" target="pjod2IjtCuMkyDOHLPp8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-1" value="ELModulesManager&lt;br&gt;模块管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-2" value="ELModulesFactory&lt;br&gt;模板对应模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-4" value="PKWebModule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-5" value="TeamPKModule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="412" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-6" value="DisocoModule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="412" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-7" value="MaskedPartyModule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="412" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-9" value="......................................................................................................................................................" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81" y="522" width="519" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pjod2IjtCuMkyDOHLPp8-11" target="pjod2IjtCuMkyDOHLPp8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-11" value="XXComponentConfig&lt;br&gt;模块配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pjod2IjtCuMkyDOHLPp8-12" target="pjod2IjtCuMkyDOHLPp8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-12" value="XXComponent&lt;br&gt;模板（娱乐模板）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-13" value="ELAbsModule" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="381" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.056;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjod2IjtCuMkyDOHLPp8-8" target="pjod2IjtCuMkyDOHLPp8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="357" as="sourcePoint" />
+            <mxPoint x="400" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pjod2IjtCuMkyDOHLPp8-22" target="pjod2IjtCuMkyDOHLPp8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-22" value="ComponetProcessor&lt;br&gt;编译时注解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-27" value="initELModuleConfigs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177" y="119" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-30" value="onCreateView" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="294" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pjod2IjtCuMkyDOHLPp8-31" target="pjod2IjtCuMkyDOHLPp8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-31" value="XXCompoentPresenter&lt;br&gt;模板加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="598.5" y="38" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-34" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pjod2IjtCuMkyDOHLPp8-2" target="pjod2IjtCuMkyDOHLPp8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="357" as="sourcePoint" />
+            <mxPoint x="400" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-35" value="createModule" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="179" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pjod2IjtCuMkyDOHLPp8-36" value="&lt;font style=&quot;font-size: 25px&quot;&gt;营收模块加载图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="625" width="214" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
