@@ -1,9 +1,163 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4" pages="3">
   <diagram name="第 1 页" id="yyOOsO7zVGeH69mSe8FG">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M84I21mg1kucJbuXEiCf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="140" width="327" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="M84I21mg1kucJbuXEiCf-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="147" width="278" height="456" as="geometry" />
+        </mxCell>
+        <mxCell id="M84I21mg1kucJbuXEiCf-4" value="xx图片层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="199" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M84I21mg1kucJbuXEiCf-5" value="xx视频层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M84I21mg1kucJbuXEiCf-6" value="xx图形层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="379" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mv1lopZAlZF5yoOhPt68-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mv1lopZAlZF5yoOhPt68-2" target="mv1lopZAlZF5yoOhPt68-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="621" />
+              <mxPoint x="442" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mv1lopZAlZF5yoOhPt68-2" value="游戏" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="606" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mv1lopZAlZF5yoOhPt68-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mv1lopZAlZF5yoOhPt68-3" target="M84I21mg1kucJbuXEiCf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mv1lopZAlZF5yoOhPt68-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mv1lopZAlZF5yoOhPt68-3" target="M84I21mg1kucJbuXEiCf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mv1lopZAlZF5yoOhPt68-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mv1lopZAlZF5yoOhPt68-3" target="M84I21mg1kucJbuXEiCf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="369" />
+              <mxPoint x="255" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mv1lopZAlZF5yoOhPt68-3" value="YMat引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="326" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mv1lopZAlZF5yoOhPt68-6" value="事件交互" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xynq_uZ7eenPWzUAIqmk-2" value="游戏内置YMat动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="133" y="649" width="139" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NpsA3vHPyezCLq_kCRzI" name="第 2 页">
+    <mxGraphModel dx="1426" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-1" value="游戏画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="147" width="246" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="147" width="246" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SWvBQtzzpGkt-dgVxdhv-3" target="SWvBQtzzpGkt-dgVxdhv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="508" />
+              <mxPoint x="347" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-3" value="人物技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="463" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-5" value="xx视频层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="478" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SWvBQtzzpGkt-dgVxdhv-7" target="SWvBQtzzpGkt-dgVxdhv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-7" value="YMat引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="543" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-12" value="ai检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="361" y="353" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-13" value="游戏外挂YMat动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="617" width="139" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4bWgh2qkm7Zr15dqAEAh" name="第 3 页">
+    <mxGraphModel dx="1426" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="127" width="306" height="515" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-1" value="游戏画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="154" width="246" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537" y="160" width="246" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RhO5XNM7NhrXDgVPLjm-4" target="3RhO5XNM7NhrXDgVPLjm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364" y="515" />
+              <mxPoint x="364" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-4" value="人物技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="470" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-5" value="xx视频层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="563" y="491" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RhO5XNM7NhrXDgVPLjm-7" target="3RhO5XNM7NhrXDgVPLjm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RhO5XNM7NhrXDgVPLjm-7" target="3RhO5XNM7NhrXDgVPLjm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-7" value="YMat引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="633" y="379" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-8" value="ai检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="451" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-9" value="直播间玩游戏外挂YMat动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="451" y="648" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RhO5XNM7NhrXDgVPLjm-11" target="3RhO5XNM7NhrXDgVPLjm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="620" />
+              <mxPoint x="380" y="581" />
+              <mxPoint x="517" y="581" />
+              <mxPoint x="517" y="409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-11" value="直播间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="163" y="612" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-14" value="语音检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="411" y="549" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-15" value="xx图片层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="491" width="97" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
