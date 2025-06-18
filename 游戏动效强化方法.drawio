@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4" pages="4">
   <diagram name="第 1 页" id="yyOOsO7zVGeH69mSe8FG">
     <mxGraphModel dx="1426" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,13 +44,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mv1lopZAlZF5yoOhPt68-3" value="YMat引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mv1lopZAlZF5yoOhPt68-3" value="动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="181" y="326" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mv1lopZAlZF5yoOhPt68-6" value="事件交互" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="480" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xynq_uZ7eenPWzUAIqmk-2" value="游戏内置YMat动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xynq_uZ7eenPWzUAIqmk-2" value="游戏内置动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="133" y="649" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -84,13 +84,13 @@
         <mxCell id="SWvBQtzzpGkt-dgVxdhv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SWvBQtzzpGkt-dgVxdhv-7" target="SWvBQtzzpGkt-dgVxdhv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SWvBQtzzpGkt-dgVxdhv-7" value="YMat引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-7" value="动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="543" y="366" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SWvBQtzzpGkt-dgVxdhv-12" value="ai检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361" y="353" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SWvBQtzzpGkt-dgVxdhv-13" value="游戏外挂YMat动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SWvBQtzzpGkt-dgVxdhv-13" value="游戏外挂动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="617" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -130,14 +130,14 @@
         <mxCell id="3RhO5XNM7NhrXDgVPLjm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RhO5XNM7NhrXDgVPLjm-7" target="3RhO5XNM7NhrXDgVPLjm-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3RhO5XNM7NhrXDgVPLjm-7" value="YMat引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-7" value="动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="633" y="379" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3RhO5XNM7NhrXDgVPLjm-8" value="ai检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="451" y="366" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3RhO5XNM7NhrXDgVPLjm-9" value="直播间玩游戏外挂YMat动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="451" y="648" width="139" height="30" as="geometry" />
+        <mxCell id="3RhO5XNM7NhrXDgVPLjm-9" value="直播间玩游戏外挂t动画引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="640" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3RhO5XNM7NhrXDgVPLjm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RhO5XNM7NhrXDgVPLjm-11" target="3RhO5XNM7NhrXDgVPLjm-7">
           <mxGeometry relative="1" as="geometry">
@@ -157,6 +157,44 @@
         </mxCell>
         <mxCell id="3RhO5XNM7NhrXDgVPLjm-15" value="xx图片层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="677" y="491" width="97" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jSNYObH5BnjQDhdEHyS1" name="第 4 页">
+    <mxGraphModel dx="1426" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-1" value="动画引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="169" width="291" height="474" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GyOO9r9RWIkBHaPdP82e-2" target="GyOO9r9RWIkBHaPdP82e-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GyOO9r9RWIkBHaPdP82e-2" target="GyOO9r9RWIkBHaPdP82e-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="262" y="521" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-2" value="动画按钮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="271" y="530" width="71" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-3" value="XX视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="452" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-6" value="XX视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="226" width="162" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-8" value="多次" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302" y="387" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-9" value="单次" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="236" y="486" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GyOO9r9RWIkBHaPdP82e-11" value="倒计时显示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="273" y="606" width="73.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
